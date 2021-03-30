@@ -1,0 +1,9 @@
+Activitatea Leaving	 a fost desfasurata de 14 ori.
+Activitatea Breakfast	 a fost desfasurata de 14 ori.
+Activitatea Sleeping a fost desfasurata de 14 ori.
+Activitatea Snack	 a fost desfasurata de 11 ori.
+Activitatea Grooming	 a fost desfasurata de 51 ori.
+Activitatea Showering	 a fost desfasurata de 14 ori.
+Activitatea Spare_Time/TV a fost desfasurata de 77 ori.
+Activitatea Toileting	 a fost desfasurata de 44 ori.
+Activitatea Lunch a fost desfasurata de 9 ori.
